@@ -1,5 +1,6 @@
 # lightlette
 A lightshot roulette. It's as simple as that.
+**I am not responsible for whatever you see.**
 # Usage
 1. Download the source code
 2. Install Node.js if you haven't already
