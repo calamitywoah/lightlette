@@ -9,5 +9,6 @@ A lightshot roulette. It's as simple as that.
 
 If you're using the modern Windows Terminal, you can open the link by ctrl+click
 Incase you're on Linux, just run the script from the VS Code terminal.
+**NOTE: NOT ALL LINKS ARE GUARANTEED TO WORK.**
 # Contributing
 Why would you?
