@@ -1,5 +1,6 @@
 # lightlette
 A lightshot roulette. It's as simple as that.
+
 **I am not responsible for whatever you see.**
 # Usage
 1. Download the source code
@@ -9,7 +10,9 @@ A lightshot roulette. It's as simple as that.
 5. Have fun.
 
 If you're using the modern Windows Terminal, you can open the link by ctrl+click
+
 Incase you're on Linux, just run the script from the VS Code terminal.
+
 **NOTE: NOT ALL LINKS ARE GUARANTEED TO WORK.**
 # Contributing
 Why would you?
